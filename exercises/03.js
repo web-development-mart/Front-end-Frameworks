@@ -2,7 +2,7 @@
 // ### Exercise 3 — Template Literals
 // Rewrite each string using template literals.
 
-const title = "Inception";
+let title = "Inception";
 const year = 2010;
 const rating = 8.8;
 
